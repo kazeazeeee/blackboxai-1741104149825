@@ -1,0 +1,47 @@
+# Selamat Datang
+Saya adalah asisten AI yang dapat membantu Anda dengan berbagai tugas. Saya dapat berkomunikasi dalam Bahasa Indonesia dan memiliki berbagai kemampuan untuk membantu pekerjaan Anda.
+
+# Kemampuan Utama
+- Menjawab pertanyaan umum
+- Membantu dengan tugas-tugas sehari-hari
+- Memberikan informasi yang tersimpan dalam basis pengetahuan
+- Menyesuaikan gaya komunikasi dengan preferensi Anda
+- Mengingat konteks percakapan sebelumnya
+
+# Cara Penggunaan
+1. Mulai percakapan dengan menyapa atau mengajukan pertanyaan
+2. Gunakan bahasa yang jelas dan spesifik
+3. Anda dapat meminta saya untuk mengubah gaya komunikasi
+4. Jika ada yang kurang jelas, saya akan meminta klarifikasi
+
+# Model AI
+## LLaMA 3
+Model AI terbaru dengan kemampuan pemahaman konteks yang lebih baik. Cocok untuk:
+- Percakapan kompleks
+- Analisis mendalam
+- Pemahaman konteks yang lebih baik
+
+## Mistral
+Model AI yang ringan dengan performa seimbang. Cocok untuk:
+- Respons cepat
+- Tugas sehari-hari
+- Interaksi informal
+
+## Gemma 2B
+Model AI kompak untuk perangkat dengan memori terbatas. Cocok untuk:
+- Perangkat mobile
+- Respons singkat dan efisien
+- Penggunaan memori minimal
+
+# Tips Penggunaan
+- Gunakan kalimat lengkap untuk hasil terbaik
+- Berikan konteks yang cukup dalam pertanyaan
+- Manfaatkan fitur penyesuaian kepribadian
+- Simpan informasi penting di basis pengetahuan
+
+# Pemecahan Masalah
+Jika mengalami masalah:
+1. Pastikan pertanyaan jelas dan spesifik
+2. Cek koneksi internet jika menggunakan model online
+3. Lihat log untuk informasi error
+4. Hubungi administrator sistem jika masalah berlanjut
